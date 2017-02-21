@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  GuoJiHuaTest
+
+  Created by zhiyou on 16-3-1.
+  Copyright (c) 2016年 zhiyou. All rights reserved.
+*/
+"ok"="hello";
+"no"="you are%@";
+"im"="789.jpg";
